@@ -3,61 +3,61 @@
         {
             "username": "JakeWharton",
             "name": "Jake Wharton",
-            "avatar": "@drawable/user1",
+            "avatar": "https://avatars0.githubusercontent.com/u/66577?v=4",
             "company": "Google, Inc."
         },
         {
             "username": "amitshekhariitbhu",
             "name": "AMIT SHEKHAR",
-            "avatar": "@drawable/user2",
+            "avatar": "https://avatars0.githubusercontent.com/u/9877145?v=4",
             "company": "@MindOrksOpenSource"
         },
         {
             "username": "romainguy",
             "name": "Romain Guy",
-            "avatar": "@drawable/user3",
+            "avatar": "https://avatars1.githubusercontent.com/u/869684?v=4",
             "company": "Google"
         },
         {
             "username": "chrisbanes",
             "name": "Chris Banes",
-            "avatar": "@drawable/user4",
+            "avatar": "https://avatars3.githubusercontent.com/u/227486?v=4",
             "company": "@google working on @android"
         },
         {
             "username": "tipsy",
             "name": "David",
-            "avatar": "@drawable/user5",
+            "avatar": "https://avatars3.githubusercontent.com/u/1521451?v=4",
             "company": "Working Group Two"
         },
         {
             "username": "ravi8x",
             "name": "Ravi Tamada",
-            "avatar": "@drawable/user6",
+            "avatar": "https://avatars1.githubusercontent.com/u/497670?v=4",
             "company": "AndroidHive | Droid5"
         },
         {
             "username": "jasoet",
             "name": "Deny Prasetyo",
-            "avatar": "@drawable/user7",
+            "avatar": "https://avatars3.githubusercontent.com/u/363917?v=4",
             "company": "@gojek-engineering"
         },
         {
             "username": "budioktaviyan",
             "name": "Budi Oktaviyan",
-            "avatar": "@drawable/user8",
+            "avatar": "https://avatars2.githubusercontent.com/u/2031493?v=4",
             "company": "@KotlinID"
         },
         {
             "username": "hendisantika",
             "name": "Hendi Santika",
-            "avatar": "@drawable/user9",
+            "avatar": "https://avatars1.githubusercontent.com/u/3713580?v=4",
             "company": "@JVMDeveloperID @KotlinID @IDDevOps"
         },
         {
             "username": "sidiqpermana",
             "name": "Sidiq Permana",
-            "avatar": "@drawable/user10",
+            "avatar": "https://avatars1.githubusercontent.com/u/4090245?v=4",
             "company": "Nusantara Beta Studio"
         }
     ]
